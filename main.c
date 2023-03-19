@@ -62,4 +62,4 @@ static void __exit test_module_cleanup(void) {
 module_init(test_module_init);
 module_exit(test_module_cleanup);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your name");
+MODULE_AUTHOR("Jollu8");
